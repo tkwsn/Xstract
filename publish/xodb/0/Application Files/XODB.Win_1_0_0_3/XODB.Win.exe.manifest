@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Images\LogoCMYK.ico" asmv2:publisher="Xstract Mining Consultants" co.v1:suiteName="XODB Suite" asmv2:product="XODB (Win)" asmv2:supportUrl="http://xodb.xstractgroup.com/" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="XODB.Win" version="1.0.4706.28108" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="XODB.Win" version="1.0.4706.28240" language="neutral" processorArchitecture="msil" />
     <commandLine file="XODB.Win.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -1000,13 +1000,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XODB.Win.exe" size="88576">
-      <assemblyIdentity name="XODB.Win" version="1.0.4706.28108" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="XODB.Win" version="1.0.4706.28240" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZXKke+RdTFKKTVPDJTpL/gOSb2CXv3T+OsMegdLRRrk=</dsig:DigestValue>
+        <dsig:DigestValue>pjTaXJlSu5uAUDy1Qm6QFJ86RIaSWmsggRzQvy01nlk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
