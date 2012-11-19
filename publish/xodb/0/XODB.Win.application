@@ -8,6 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
+    <deploymentProvider codebase="http://xodb.xstractgroup.com/publish/xodb/0/XODB.Win.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
@@ -20,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dKzvYhxrTK4YRgcyrw2BGgKNWa1zdpruWTAqVgE/6RM=</dsig:DigestValue>
+        <dsig:DigestValue>DQ9kM+/ohiiM18B9d3InGRtRA7YFtWuRcu64jTENi/I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
