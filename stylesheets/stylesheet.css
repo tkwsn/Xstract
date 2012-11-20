@@ -358,6 +358,15 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 
+.cloudsync {
+  display: block;
+  float: center;
+  width: 650px;
+  height:729px;
+  overflow: hidden;
+  background: url(../images/cloudsync.png) no-repeat top center;
+}
+
 .tar_download_link {
   display: block;
   float: right;
